@@ -1,0 +1,21 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="28" fill="#050913" />
+  <rect x="24" y="24" width="1232" height="672" rx="24" fill="#0A1020" stroke="rgba(255,255,255,0.12)" />
+  <text x="62" y="78" fill="#9CA6C6" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">SPECSHOWDOWN</text>
+  <text x="62" y="168" fill="#EDF1FF" font-family="Arial, sans-serif" font-size="56" font-weight="700">Compare full setups like they deserve</text>
+  <text x="62" y="230" fill="#FFC76A" font-family="Georgia, serif" font-size="56" font-style="italic">to be seen.</text>
+  <text x="62" y="282" fill="#9CA6C6" font-family="Arial, sans-serif" font-size="22">Profile builder, compare board, and share card preview in one static-friendly app.</text>
+  <rect x="62" y="338" width="170" height="44" rx="22" fill="#FFC76A" />
+  <rect x="248" y="338" width="170" height="44" rx="22" fill="#132238" stroke="rgba(255,255,255,0.1)" />
+  <rect x="706" y="104" width="494" height="502" rx="28" fill="#0D1425" stroke="rgba(255,255,255,0.1)" />
+  <rect x="736" y="142" width="434" height="92" rx="18" fill="#101A2E" />
+  <rect x="736" y="254" width="434" height="248" rx="18" fill="#0B1222" />
+  <rect x="736" y="522" width="434" height="54" rx="18" fill="#101A2E" />
+  <rect x="62" y="462" width="590" height="144" rx="24" fill="#0D1425" stroke="rgba(255,255,255,0.08)" />
+  <rect x="90" y="496" width="110" height="18" rx="9" fill="#7FD9FF" fill-opacity="0.75" />
+  <rect x="218" y="496" width="188" height="18" rx="9" fill="#2D415E" />
+  <rect x="90" y="538" width="110" height="18" rx="9" fill="#FFC76A" fill-opacity="0.75" />
+  <rect x="218" y="538" width="250" height="18" rx="9" fill="#2D415E" />
+  <rect x="90" y="580" width="110" height="18" rx="9" fill="#A1A8C4" fill-opacity="0.75" />
+  <rect x="218" y="580" width="204" height="18" rx="9" fill="#2D415E" />
+</svg>

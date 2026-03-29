@@ -1,0 +1,49 @@
+name: Bug report
+description: Report a reproducible problem in SpecShowdown / Reporta un problema reproducible en SpecShowdown
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary / Resumen
+      description: What happened? / ¿Qué ocurrió?
+      placeholder: A short description of the bug and where you found it.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Pasos para reproducir
+      description: List the exact steps. / Lista los pasos exactos.
+      placeholder: |
+        1. Open...
+        2. Click...
+        3. See error...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / Resultado esperado
+      placeholder: What should have happened?
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser / Navegador
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context / Contexto extra
+      description: Screenshots, recordings, console errors, device details, or language mode.

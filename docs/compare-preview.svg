@@ -1,0 +1,31 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="28" fill="#050913" />
+  <rect x="24" y="24" width="1232" height="672" rx="24" fill="#09111F" stroke="rgba(255,255,255,0.12)" />
+  <text x="70" y="90" fill="#9CA6C6" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">COMPARE VIEW</text>
+  <rect x="70" y="126" width="1140" height="520" rx="28" fill="#0D1425" stroke="rgba(255,255,255,0.1)" />
+  <text x="116" y="190" fill="#EDF1FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Latency Lab</text>
+  <text x="804" y="190" fill="#EDF1FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Studio Focus</text>
+  <g font-family="Arial, sans-serif" font-size="22">
+    <text x="116" y="268" fill="#9CA6C6">Keyboard</text>
+    <text x="390" y="268" fill="#EDF1FF">Wooting 80HE</text>
+    <text x="804" y="268" fill="#EDF1FF">HHKB Hybrid Type-S</text>
+    <text x="116" y="334" fill="#9CA6C6">Mouse</text>
+    <text x="390" y="334" fill="#EDF1FF">Atlantis Mini 4K</text>
+    <text x="804" y="334" fill="#EDF1FF">MX Master 3S</text>
+    <text x="116" y="400" fill="#9CA6C6">Monitor</text>
+    <text x="390" y="400" fill="#EDF1FF">ASUS 300Hz</text>
+    <text x="804" y="400" fill="#EDF1FF">Dell 4K</text>
+    <text x="116" y="466" fill="#9CA6C6">Microphone</text>
+    <text x="390" y="466" fill="#EDF1FF">Shure MV7+</text>
+    <text x="804" y="466" fill="#EDF1FF">AT2040USB</text>
+    <text x="116" y="532" fill="#9CA6C6">Chair</text>
+    <text x="390" y="532" fill="#EDF1FF">Sayl</text>
+    <text x="804" y="532" fill="#EDF1FF">Gesture</text>
+  </g>
+  <rect x="350" y="158" width="240" height="24" rx="12" fill="#FFC76A" fill-opacity="0.2" />
+  <rect x="350" y="224" width="520" height="1" fill="rgba(255,255,255,0.1)" />
+  <rect x="350" y="290" width="520" height="1" fill="rgba(255,255,255,0.1)" />
+  <rect x="350" y="356" width="520" height="1" fill="rgba(255,255,255,0.1)" />
+  <rect x="350" y="422" width="520" height="1" fill="rgba(255,255,255,0.1)" />
+  <rect x="350" y="488" width="520" height="1" fill="rgba(255,255,255,0.1)" />
+</svg>

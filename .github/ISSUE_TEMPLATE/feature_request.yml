@@ -1,0 +1,30 @@
+name: Feature request
+description: Suggest an improvement for SpecShowdown / Sugiere una mejora para SpecShowdown
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity / Problema u oportunidad
+      description: What need are you trying to solve? / ¿Qué necesidad quieres resolver?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution / Solución propuesta
+      description: Describe the idea clearly. / Describe la idea con claridad.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered / Alternativas consideradas
+      description: Optional, but helpful. / Opcional, pero útil.
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context / Contexto extra
+      description: Mockups, references, examples, or why the request matters.

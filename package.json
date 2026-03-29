@@ -1,0 +1,38 @@
+{
+  "name": "spec-showdown",
+  "version": "0.1.0",
+  "description": "A polished public web app for beautiful setup profile cards and optional hardware comparisons.",
+  "type": "module",
+  "author": "Christopher David Alberto Roque (WhiteAssassins) / AEWhite Devs",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhiteAssassins/SpecShowdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhiteAssassins/SpecShowdown/issues"
+  },
+  "homepage": "https://whiteassassins.github.io/SpecShowdown/",
+  "keywords": [
+    "specshowdown",
+    "hardware-compare",
+    "setup-comparison",
+    "gaming-setup",
+    "desk-setup",
+    "vite",
+    "static-site",
+    "bilingual"
+  ],
+  "dependencies": {
+    "html-to-image": "^1.11.13"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}
